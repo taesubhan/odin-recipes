@@ -1,0 +1,29 @@
+body {
+    font-size: 18px;
+    font-family: "Calibri", "Times New Roman", sans-serif, serif;
+    background-color: rgb(176, 210, 237)
+}
+
+.index,
+.web-header {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+ul.links-to-recipes {
+    list-style-type: none;
+}
+
+img.main-homepage {
+    height: auto;
+    width: 750px;
+}
+
+
+.web-header img {
+    height: auto;
+    width: 500px;
+}
